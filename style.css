@@ -1,0 +1,213 @@
+body{
+  background-color: #EAE0CC;
+  margin: 30px;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    position:fixed;
+  
+ 
+}
+.logo{
+    font-family:fantasy;
+    font-size: x-large;
+}
+.tasks{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+.reachform{
+    font-size: large;
+   margin: 5px;
+   margin-left: 390px;
+    background-color:#ade9f0;
+    border-radius: 9px;
+}
+.dot{
+    width: 90px;
+    display:inline-block;
+}
+a{
+    margin-right: 60px;
+    text-decoration: unset;
+   
+   font-family:sans-serif;
+   color:#42585b;
+}
+.pfp{
+    height: 600px;
+   margin: 100px;
+   border-radius: 100%;
+   border-style: outset;
+   border-color: yellow;
+   
+
+}
+.tagline{
+    color:rgb(195, 195, 55);
+}
+#home{
+    display: flex;
+}
+h4{
+    margin: unset;
+    padding: unset;
+    
+}
+h1{
+     margin: unset;
+    padding: unset;
+   font-family: "BBH Sans Hegarty", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: xxx-large;
+   
+}
+.introduction{
+    margin-top: 280px;
+    margin-left: 70px;
+    display:grid;
+
+}
+.extra{
+    margin-left: 230px;
+    word-spacing: 15px;
+    font-size: larger;
+}
+iframe{
+    width: 100vw;
+}
+#project{
+    display:flex;
+    justify-content: space-between;
+}
+.pbutton{
+    margin-bottom: 50px;
+    margin-left: 50px;
+   background-color:rgb(129, 123, 123);
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    border-style: none;
+    height: 40px;
+    width: 140px;
+    border-radius: 8px;
+   
+}
+.pbutton:hover{
+    color: red;
+    background-color: rgb(255, 255, 255);
+}
+
+.work{
+    width: 30vw;
+    background-color: rgb(194, 187, 187);
+    text-align: center;
+   
+}
+#projectline{
+    text-align: center;
+    font-size: xx-large;
+    font-family: "BBH Sans Hegarty", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 40px;
+  margin-top: 200px;
+   color:#243d40;
+
+}
+#about{
+    display:flex;
+    margin-top: 300px;
+    justify-content: space-between;
+    
+}
+.career{
+    word-spacing: 7px;
+    color:#799699;
+}
+.line{
+  color:#243d40;
+}
+.imgs{
+    display:flex;
+    margin-right: 40px;
+}
+.ecom{
+    width: 25vw;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+.fame{
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border-top-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    border-style: solid;
+    border-width: 7px;
+   border-color: #938a7a;
+}
+
+.fame2{
+    width: 380px;
+    height: 250px;
+    margin: 20px;
+    border-style: solid;
+     border-top-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    border-width: 7px;
+     border-color: #938a7a;
+}
+
+.achievements{
+    margin-left: 70px;
+}
+#contact{
+    display:flex;
+    margin-top: 250px;
+}
+.addressing{
+   margin-top: 260px;
+   margin-left: 200px;
+   font-family: sans-serif;
+   font-weight: 100;
+   
+    color:#799699;
+    
+}
+.connecthead{
+    color:#243d40;
+}
+
+.contactbutton{
+    background-color:rgb(75, 79, 67);
+    color:white;
+    font-size: larger;
+    border-radius: 8px;
+    width: 140px;
+}
+.mailbutton{
+    background-color:whitesmoke;
+    color:black;
+    font-size: larger;
+    border-radius: 8px;
+}
+.imgconnect{
+    width: 35vw;
+    margin-left: 180px;
+    border-radius: 15%;
+}
+.greeting{
+    text-align: center;
+    font-size: larger;
+    margin-top: 190px;
+}
+footer{
+    color:#243d40;
+}
+.outro{
+    display: grid;
+    margin-top: 60px;
+}
